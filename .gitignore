@@ -1,0 +1,6 @@
+TodoApi/bin 
+TodoApi/obj/project.nuget.cache
+TodoApi/obj/TodoApi.csproj.nuget.g.props
+TodoApi/obj/TodoApi.csproj.nuget.dgspec.json
+TodoApi/obj/project.assets.json
+TodoApi/obj/Debug/net8.0
