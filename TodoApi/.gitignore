@@ -1,6 +1,3 @@
 bin 
-obj/project.nuget.cache
-obj/TodoApi.csproj.nuget.g.props
-obj/TodoApi.csproj.nuget.dgspec.json
-obj/project.assets.json
-obj/Debug/net8.0
+obj
+tests/obj
